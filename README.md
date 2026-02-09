@@ -1,0 +1,1 @@
+This hospital dashboard provides an interactive overview of key healthcare metrics such as patient admissions, discharges, bed occupancy, and departmental performance. It helps hospital management monitor patient flow, analyze trends, and improve operational efficiency through data-driven decisions.
